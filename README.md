@@ -1,5 +1,3 @@
-# megacorp | good marketing example
+# megacorp
 
-MegaCorp is *the* enterprise Customer Relationship Management (CRM) software.
-Not only it is an increbible piece of software but the color scheme used in the
-website it's also very nice!
+The starter repo for the [Git 2 course](https://www.boot.dev/learn/learn-git-2) on Boot.dev.
